@@ -11,12 +11,6 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliz30&layout=compact&langs_count=7&theme=merko"/>
 
 <hr>
-<br>
-
-<h4 align = "left"> Sobre mim
-<br>
-- Tenho 19 anos
-- 3° semestre de Engenharia de Software (UnB)
-- Residente do DF
-- Amo jogos e música
--
+<div/>
+  
+  > Victor Hugo - 19 anos - 3° semestre de Engenharia de Software (UnB) - Amo jogos e heróis 
