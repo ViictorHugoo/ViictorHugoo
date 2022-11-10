@@ -1,16 +1,22 @@
-### Hi there 👋
+### Welcome to my world!:earth_americas::vulcan_salute:
 
-<!--
-**ViictorHugoo/ViictorHugoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Explorando os mundos C, Java, Python, Nodejs e Reactjs
 
-Here are some ideas to get you started:
+<hr >
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href= "https://github.com/ViictorHugoo">
+<img height="160em" src= "https://github-readme-stats.vercel.app/api?username=ViictorHugoo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maliz30&layout=compact&langs_count=7&theme=merko"/>
+
+<hr>
+<br>
+
+<h4 align = "left"> Sobre mim
+<br>
+- Tenho 19 anos
+- 3° semestre de Engenharia de Software (UnB)
+- Residente do DF
+- Amo jogos e música
+-
