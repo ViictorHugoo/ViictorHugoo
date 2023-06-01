@@ -13,4 +13,4 @@
 <hr>
 <div/>
   
-Victor Hugo - 19 anos - 4° semestre de Engenharia de Software (UnB) - Amo jogos e heróis 
+> Victor Hugo - 19 anos - 4° semestre de Engenharia de Software (UnB) - Amo jogos e heróis 
