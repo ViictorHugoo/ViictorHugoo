@@ -1,4 +1,4 @@
-### Welcome to my world!:earth_americas::vulcan_salute:
+### Welcome to my world!
 
 - Explorando os mundos C++, Java, Python, Nodejs e React.
 
