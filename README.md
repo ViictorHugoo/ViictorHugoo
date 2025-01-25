@@ -1,6 +1,6 @@
 ### Welcome to my world!:earth_americas::vulcan_salute:
 
-- Explorando os mundos C, Java, Python, Nodejs e Reactjs
+- Explorando os mundos C++, Java, Python, Nodejs e React.
 
 <hr >
 <br>
