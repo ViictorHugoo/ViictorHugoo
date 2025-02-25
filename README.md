@@ -1,7 +1,5 @@
 ### Welcome to my world!
 
-- Explorando os mundos C++, Java, Python, Nodejs e React.
-
 <hr >
 <br>
 
@@ -13,4 +11,4 @@
 <hr>
 <div/>
   
-> Victor Hugo - 20 anos - 7° semestre de Engenharia de Software (UnB)
+> Victor Hugo - 21 anos - 8° semestre de Engenharia de Software (UnB)
